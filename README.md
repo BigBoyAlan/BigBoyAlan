@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- Currently a student studying Mathematics at Univeristy of Texas
+- I'm currently learning about Decentralized Cloud (ICP)
+- I'm currently working on a data visualzation project on March Madness Stats
+- I love all things statistics/probablity. Ask me about my favorite distribution!
+- Check out my Data Science Portfolio in my pinned repositories
+- Fun Fact: I love bouldering and love all things outdoors
+- reach me at: alan@fandrich.net
 <!--
 **BigBoyAlan/BigBoyAlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
