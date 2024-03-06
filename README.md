@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Mathematics student at the University of Tex
 
 ## 💡 Interests
 - **Statistics & Probability**: Passionate about all things related to statistics. Ask me what my favorite distrubiton is!
-- **Bouldering & Outdoors**: When I'm not crunching numbers, you'll find me climbing or enjoying nature.
+- **Bouldering & Outdoors**: When im not outdoors climbing, catch me in a climbing gym training!
 
 ## 🎯 Portfolio
 - Take a look at my **[Data Science Portfolio](https://github.com/BigBoyAlan?tab=repositories)** pinned in my repositories for a deep dive into my projects and skills.
